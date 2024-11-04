@@ -1,3 +1,5 @@
+https://github.com/Barbara1603/-Bases_de_la_programaci-n_en_C-_Barbara_Torres.git
+
 # -Ejercicio_Bases_de_la_programacion_Barbara_Torres
 Enunciado de los ejercicios: Ejercicios por parejas/trios con un único repositorio en Github
 Declaración de variables (ENTREGA OBLIGATORIA 05.11.2024)
